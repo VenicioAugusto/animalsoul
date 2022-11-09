@@ -24,15 +24,24 @@
 ## 💻 About the project
 
 For this project, I chose a Sidescroller type of gameplay with the possibility of moving in the depth axis as well.
+
 I modified a third-person Unreal standard project to best suit the proposed movement and added some other tricks such as roll and crouch movements.
+
 I created a climbing system from scratch, which allows the player to climb objects, move while hanging on a ledge, jump from ledge to ledge and turn in a corned ledge.
+
 I also created a blueprint for "pushable" objects and "openable" objects, making both as customized as possible to make building a level an easier process.
+
 All animations were retarget from mixamo animations to the Unreal 5 sckeleton.
 <br>
 
-<img alt="Climb System " src="./.docs/AnimalSoul02.PNG" width="500px">
-<img alt="Push Object Blueprint " src="./.docs/AnimalSoul03.PNG" width="500px">
-<img alt="Open Object Blueprint " src="./.docs/AnimalSoul01.PNG" width="500px">
+#### Climb System
+<img alt="Climb System" src="./.docs/AnimalSoul02.PNG" width="500px">
+
+#### Push Objects
+<img alt="Push Object Blueprint" src="./.docs/AnimalSoul03.PNG" width="500px">
+
+#### Open Objects
+<img alt="Open Object Blueprint" src="./.docs/AnimalSoul01.PNG" width="500px">
 
 <br>
 
